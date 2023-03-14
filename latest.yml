@@ -1,0 +1,8 @@
+version: 2.0.0
+files:
+  - url: TomAccountingTest-Setup-2.0.0.exe
+    sha512: hXIhCCj7IlBhCSyfRImyyV6QfONrWV6OsADSMDwnfMH1jpuyPmsoiaNuMgUMZO2VgmvX5vwA0WT13eD4zJ2Zig==
+    size: 83278072
+path: TomAccountingTest-Setup-2.0.0.exe
+sha512: hXIhCCj7IlBhCSyfRImyyV6QfONrWV6OsADSMDwnfMH1jpuyPmsoiaNuMgUMZO2VgmvX5vwA0WT13eD4zJ2Zig==
+releaseDate: '2023-03-14T02:41:41.520Z'
